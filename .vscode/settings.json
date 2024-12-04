@@ -1,0 +1,17 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ffffff25",
+    "activityBar.background": "#8b53a9",
+    "activityBar.foreground": "#fff",
+    "activityBar.activeBorder": "#4ebe86",
+    "activityBar.inactiveForeground": "#ffffff75",
+    "activityBarBadge.background": "#4ebe86",
+    "sash.hoverBorder": "#8b53a9",
+    "editorGroup.border": "#8b53a9",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "panel.border": "#8b53a9",
+    "sideBar.border": "#8b53a9",
+    "tab.activeBorder": "#8b53a9"
+  },
+  "html.customData": ["./node_modules/@cscfi/csc-ui/vscode-data.json"]
+}
